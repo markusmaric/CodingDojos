@@ -1,0 +1,6 @@
+c:\users\markus\documents\visual studio 2015\Projects\Dojo2\Dojo2\bin\Debug\Dojo2.exe.config
+c:\Users\Markus\Documents\Visual Studio 2015\Projects\Dojo2\Dojo2\bin\Debug\Dojo2.exe
+c:\Users\Markus\Documents\Visual Studio 2015\Projects\Dojo2\Dojo2\bin\Debug\Dojo2.pdb
+c:\Users\Markus\Documents\Visual Studio 2015\Projects\Dojo2\Dojo2\obj\Debug\Dojo2.csprojResolveAssemblyReference.cache
+c:\Users\Markus\Documents\Visual Studio 2015\Projects\Dojo2\Dojo2\obj\Debug\Dojo2.exe
+c:\Users\Markus\Documents\Visual Studio 2015\Projects\Dojo2\Dojo2\obj\Debug\Dojo2.pdb
