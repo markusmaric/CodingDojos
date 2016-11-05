@@ -9,6 +9,7 @@ namespace Dojo1
     class Program
     {
         static void Main(string[] args)
+            //This code is quite simple, to be honest.
         {
             Console.WriteLine("Welcome to TemperatureConverter! Start by choosing one of the following temperature units:");
             Console.WriteLine("1: Celsius\n2: Fahrenheit\n3: Réaumur\n4: Kelvin");
